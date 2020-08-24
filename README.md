@@ -2,7 +2,7 @@
 
 ## Replace all TODO with actual information
 
-Author(s): Srikar DUggempudi
+Author(s): Srikar Duggempudi
 
 GitHub URL: TODO
 
