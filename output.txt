@@ -1,0 +1,372 @@
+Script started on Tue 10 Mar 2020 11:15:00 PM PDT
+]0;srikardu@csslab7:~/CSS 343/uwb2020wi343b-movies-srikarduggempudi[?1034h[srikardu@csslab7 uwb2020wi343b-movies-srikarduggempudi]$ ./simplecompile.sh 
+Tue Mar 10 23:15:04 PDT 2020
+Linux csslab7.uwb.edu 3.10.0-957.27.2.el7.x86_64 #1 SMP Mon Jul 29 17:46:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+uid=764599(srikardu) gid=2120764599(srikardu) groups=2120764599(srikardu),605559(lab-access) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+*** compiling with clang++ to create an executable called myprogram
+clang version 7.0.1 (tags/RELEASE_701/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7.0/root/usr/bin
+*** running myprogram
+Error: Not a valid Movie Type [Line 18] 
+Error: Not a valid Movie Type [Line 26] 
+Error: Not a valid Movie Type [Line 33] 
+Error: Not a valid Movie Type [Line 34] 
+Error: Not a valid Movie Type [Line 35] 
+Error: Not a valid Movie Type [Line 36] 
+Error: Not a valid Movie Type [Line 37] 
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+F, 10, Woody Allen, Annie Hall, 1977
+F, 10, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Different Years, Pirates of the Caribbean, 2000
+F, 10, Joel Coen, Fargo, 1996
+F, 10, John Landis, National Lampoon's Animal House, 1978
+F, 10, Nora Ephron, You've Got Mail, 1998
+D, 10, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Barry Levinson, Same Director Good Morning Vietnam, 1988
+D, 10, Gus Van Sant, Good Will Hunting, 2000
+D, 10, Phillippe De Broca, King of Hearts, 1967
+D, 10, Steven Spielberg, Schindler's List, 1993
+D, 10, Jonathan Demme, Silence of the Lambs, 1991
+D, 10, Clint Eastwood, Unforgiven, 1992
+D, 10, Nancy Savoca, Dogfight, 1991
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman, 8 1942
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart, 8 1942
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland, 7 1939
+C, 10, Hal Ashby, Harold and Maude, Ruth Gordon, 3 1971
+C, 10, George Cukor, Holiday, Katherine Hepburn, 9 1938
+C, 10, George Cukor, Holiday, Cary Grant, 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh, 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable, 2 1939
+C, 10, George Cukor, The Philadelphia Story, Katherine Hepburn, 5 1940
+C, 10, George Cukor, The Philadelphia Story, Cary Grant, 5 1940
+C, 10, John Huston, The Maltese Falcon, Humphrey Bogart, 10 1941
+C, 10, Frank Capra, It's a Wonderful Life, James Steward, 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed, 11 1946
+C, 10, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell, 2 1971
+#############################
+History for 1000 Mouse Minnie
+-----------------------------
+#############################
+History for 5000 Frog Freddie
+-----------------------------
+#############################
+History for 8000 Wacky Wally
+-----------------------------
+Error: Not a valid Command [Line 14] 
+Error: Not a valid Command [Line 30] 
+Error: Not a valid Command [Line 36] 
+Error: Cannot find Customer with ID 1234
+Error: Not a valid Command [Line 46] 
+Error: Movie [Harold and Maude] is not in Stock
+Error: Movie [Harold and Maude] is not in Stock
+Error: Movie [Harold and Maude] is not in Stock
+Error: Not a valid Command [Line 53] 
+F, 9, Nora Ephron, Sleepless in Seattle, 1993
+F, 9, Woody Allen, Annie Hall, 1977
+F, 9, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Different Years, Pirates of the Caribbean, 2000
+F, 8, Joel Coen, Fargo, 1996
+F, 9, John Landis, National Lampoon's Animal House, 1978
+F, 9, Nora Ephron, You've Got Mail, 1998
+D, 9, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Barry Levinson, Same Director Good Morning Vietnam, 1988
+D, 9, Gus Van Sant, Good Will Hunting, 2000
+D, 9, Phillippe De Broca, King of Hearts, 1967
+D, 9, Steven Spielberg, Schindler's List, 1993
+D, 9, Jonathan Demme, Silence of the Lambs, 1991
+D, 9, Clint Eastwood, Unforgiven, 1992
+D, 8, Nancy Savoca, Dogfight, 1991
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman, 8 1942
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart, 8 1942
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland, 7 1939
+C, 0, Hal Ashby, Harold and Maude, Ruth Gordon, 3 1971
+C, 10, George Cukor, Holiday, Katherine Hepburn, 9 1938
+C, 9, George Cukor, Holiday, Cary Grant, 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh, 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable, 2 1939
+C, 9, George Cukor, The Philadelphia Story, Katherine Hepburn, 5 1940
+C, 9, George Cukor, The Philadelphia Story, Cary Grant, 5 1940
+C, 9, John Huston, The Maltese Falcon, Humphrey Bogart, 10 1941
+C, 10, Frank Capra, It's a Wonderful Life, James Steward, 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed, 11 1946
+C, 9, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell, 2 1971
+#############################
+History for 1000 Mouse Minnie
+B D D Barry Levinson, Good Morning Vietnam,
+B D C 5 1940 Katherine Hepburn
+B D D Gus Van Sant, Good Will Hunting,
+B D C 5 1940 Cary Grant
+B D C 3 1971 Ruth Gordon
+B D F Fargo, 1996
+-----------------------------
+#############################
+History for 1111 Mouse Mickey
+B D C 2 1971 Malcolm McDowell
+B D C 3 1971 Ruth Gordon
+B D C 10 1941 Humphrey Bogart
+B D C 9 1938 Cary Grant
+-----------------------------
+#############################
+History for 5000 Frog Freddie
+R D C 3 1971 Ruth Gordon
+R D C 3 1971 Ruth Gordon
+R D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+-----------------------------
+#############################
+History for 8000 Wacky Wally
+R D F You've Got Mail, 1998
+B D F You've Got Mail, 1998
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D F National Lampoon's Animal House, 1978
+-----------------------------
+#############################
+History for 8888 Pig Porky
+B D F Annie Hall, 1977
+B D F When Harry Met Sally, 1989
+B D D Jonathan Demme, Silence of the Lambs,
+B D D Nancy Savoca, Dogfight,
+B D C 3 1971 Ruth Gordon
+-----------------------------
+Done.
+*** running clang-tidy using options from .clang-tidy
+LLVM (http://llvm.org/):
+  LLVM version 7.0.1
+  Optimized build.
+  Default target: x86_64-unknown-linux-gnu
+  Host CPU: broadwell
+10533 warnings generated.
+22591 warnings generated.
+33124 warnings generated.
+45190 warnings generated.
+55347 warnings generated.
+69254 warnings generated.
+79787 warnings generated.
+91841 warnings generated.
+101795 warnings generated.
+112289 warnings generated.
+123987 warnings generated.
+135902 warnings generated.
+147999 warnings generated.
+162458 warnings generated.
+177264 warnings generated.
+[1m/home/NETID/srikardu/CSS 343/uwb2020wi343b-movies-srikarduggempudi/hashtable.cpp:14:1: [0m[0;1;35mwarning: [0m[1mconstructor does not initialize these fields: CollectionTable [cppcoreguidelines-pro-type-member-init][0m
+HashTable::HashTable() {
+[0;1;32m^
+[0mSuppressed 177262 warnings (177262 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+*** running clang-format format formatting suggestions
+*** formatting suggestions for classiccollection.cpp
+*** formatting suggestions for classicmovie.cpp
+*** formatting suggestions for comedycollection.cpp
+*** formatting suggestions for comedymovie.cpp
+37c37
+<     // Returns a string with the display info
+---
+> // Returns a string with the display info
+*** formatting suggestions for customercollection.cpp
+*** formatting suggestions for customer.cpp
+103,104c103,105
+<     cout << "Movie [" << M->getTitle() << "] has not been borrowed by Customer ["
+<          << this->getName() << "] " << endl;
+---
+>     cout << "Movie [" << M->getTitle()
+>          << "] has not been borrowed by Customer [" << this->getName() << "] "
+>          << endl;
+*** formatting suggestions for dramacollection.cpp
+*** formatting suggestions for dramamovie.cpp
+*** formatting suggestions for hashtable.cpp
+*** formatting suggestions for main.cpp
+8d7
+< 
+18c17
+<   //testAll();
+---
+>   // testAll();
+*** formatting suggestions for moviecollection.cpp
+*** formatting suggestions for movie.cpp
+20,21c20,21
+< Movie::Movie(char Genre, const string &Title, int ReleaseYear, const string &Director,
+<              int Stock)
+---
+> Movie::Movie(char Genre, const string &Title, int ReleaseYear,
+>              const string &Director, int Stock)
+26c26
+<     // Return the genre of the Movie
+---
+> // Return the genre of the Movie
+*** formatting suggestions for movieutils.cpp
+*** formatting suggestions for store.cpp
+38,40c38,41
+<       cout << "Error: Not a valid Movie Type [Line " << LineNumber 
+<           // << ": " << Line 
+<           << "] " << endl;
+---
+>       cout << "Error: Not a valid Movie Type [Line "
+>            << LineNumber
+>            // << ": " << Line
+>            << "] " << endl;
+140,141c141,143
+<       cout << "Error: Not a valid Command [Line " << LineNumber //<< ": " << Line
+<            << "] "  << endl;
+---
+>       cout << "Error: Not a valid Command [Line "
+>            << LineNumber //<< ": " << Line
+>            << "] " << endl;
+*** formatting suggestions for store_test.cpp
+*** running valgrind to detect memory leaks
+==25684== Memcheck, a memory error detector
+==25684== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==25684== Using Valgrind-3.14.0 and LibVEX; rerun with -h for copyright info
+==25684== Command: ./myprogram
+==25684== 
+Error: Not a valid Movie Type [Line 18] 
+Error: Not a valid Movie Type [Line 26] 
+Error: Not a valid Movie Type [Line 33] 
+Error: Not a valid Movie Type [Line 34] 
+Error: Not a valid Movie Type [Line 35] 
+Error: Not a valid Movie Type [Line 36] 
+Error: Not a valid Movie Type [Line 37] 
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+F, 10, Woody Allen, Annie Hall, 1977
+F, 10, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Different Years, Pirates of the Caribbean, 2000
+F, 10, Joel Coen, Fargo, 1996
+F, 10, John Landis, National Lampoon's Animal House, 1978
+F, 10, Nora Ephron, You've Got Mail, 1998
+D, 10, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Barry Levinson, Same Director Good Morning Vietnam, 1988
+D, 10, Gus Van Sant, Good Will Hunting, 2000
+D, 10, Phillippe De Broca, King of Hearts, 1967
+D, 10, Steven Spielberg, Schindler's List, 1993
+D, 10, Jonathan Demme, Silence of the Lambs, 1991
+D, 10, Clint Eastwood, Unforgiven, 1992
+D, 10, Nancy Savoca, Dogfight, 1991
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman, 8 1942
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart, 8 1942
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland, 7 1939
+C, 10, Hal Ashby, Harold and Maude, Ruth Gordon, 3 1971
+C, 10, George Cukor, Holiday, Katherine Hepburn, 9 1938
+C, 10, George Cukor, Holiday, Cary Grant, 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh, 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable, 2 1939
+C, 10, George Cukor, The Philadelphia Story, Katherine Hepburn, 5 1940
+C, 10, George Cukor, The Philadelphia Story, Cary Grant, 5 1940
+C, 10, John Huston, The Maltese Falcon, Humphrey Bogart, 10 1941
+C, 10, Frank Capra, It's a Wonderful Life, James Steward, 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed, 11 1946
+C, 10, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell, 2 1971
+#############################
+History for 1000 Mouse Minnie
+-----------------------------
+#############################
+History for 5000 Frog Freddie
+-----------------------------
+#############################
+History for 8000 Wacky Wally
+-----------------------------
+Error: Not a valid Command [Line 14] 
+Error: Not a valid Command [Line 30] 
+Error: Not a valid Command [Line 36] 
+Error: Cannot find Customer with ID 1234
+Error: Not a valid Command [Line 46] 
+Error: Movie [Harold and Maude] is not in Stock
+Error: Movie [Harold and Maude] is not in Stock
+Error: Movie [Harold and Maude] is not in Stock
+Error: Not a valid Command [Line 53] 
+F, 9, Nora Ephron, Sleepless in Seattle, 1993
+F, 9, Woody Allen, Annie Hall, 1977
+F, 9, Rob Reiner, When Harry Met Sally, 1989
+F, 10, Gore Verbinski, Pirates of the Caribbean, 2003
+F, 10, Different Years, Pirates of the Caribbean, 2000
+F, 8, Joel Coen, Fargo, 1996
+F, 9, John Landis, National Lampoon's Animal House, 1978
+F, 9, Nora Ephron, You've Got Mail, 1998
+D, 9, Barry Levinson, Good Morning Vietnam, 1988
+D, 10, Barry Levinson, Same Director Good Morning Vietnam, 1988
+D, 9, Gus Van Sant, Good Will Hunting, 2000
+D, 9, Phillippe De Broca, King of Hearts, 1967
+D, 9, Steven Spielberg, Schindler's List, 1993
+D, 9, Jonathan Demme, Silence of the Lambs, 1991
+D, 9, Clint Eastwood, Unforgiven, 1992
+D, 8, Nancy Savoca, Dogfight, 1991
+C, 10, Michael Curtiz, Casablanca, Ingrid Bergman, 8 1942
+C, 10, Michael Curtiz, Casablanca, Humphrey Bogart, 8 1942
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland, 7 1939
+C, 0, Hal Ashby, Harold and Maude, Ruth Gordon, 3 1971
+C, 10, George Cukor, Holiday, Katherine Hepburn, 9 1938
+C, 9, George Cukor, Holiday, Cary Grant, 9 1938
+C, 10, Victor Fleming, Gone With the Wind, Vivien Leigh, 2 1939
+C, 10, Victor Fleming, Gone With the Wind, Clark Gable, 2 1939
+C, 9, George Cukor, The Philadelphia Story, Katherine Hepburn, 5 1940
+C, 9, George Cukor, The Philadelphia Story, Cary Grant, 5 1940
+C, 9, John Huston, The Maltese Falcon, Humphrey Bogart, 10 1941
+C, 10, Frank Capra, It's a Wonderful Life, James Steward, 11 1946
+C, 10, Frank Capra, It's a Wonderful Life, Donna Reed, 11 1946
+C, 9, Stanley Kubrick, A Clockwork Orange, Malcolm McDowell, 2 1971
+#############################
+History for 1000 Mouse Minnie
+B D D Barry Levinson, Good Morning Vietnam,
+B D C 5 1940 Katherine Hepburn
+B D D Gus Van Sant, Good Will Hunting,
+B D C 5 1940 Cary Grant
+B D C 3 1971 Ruth Gordon
+B D F Fargo, 1996
+-----------------------------
+#############################
+History for 1111 Mouse Mickey
+B D C 2 1971 Malcolm McDowell
+B D C 3 1971 Ruth Gordon
+B D C 10 1941 Humphrey Bogart
+B D C 9 1938 Cary Grant
+-----------------------------
+#############################
+History for 5000 Frog Freddie
+R D C 3 1971 Ruth Gordon
+R D C 3 1971 Ruth Gordon
+R D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+-----------------------------
+#############################
+History for 8000 Wacky Wally
+R D F You've Got Mail, 1998
+B D F You've Got Mail, 1998
+B D C 3 1971 Ruth Gordon
+B D C 3 1971 Ruth Gordon
+B D F National Lampoon's Animal House, 1978
+-----------------------------
+#############################
+History for 8888 Pig Porky
+B D F Annie Hall, 1977
+B D F When Harry Met Sally, 1989
+B D D Jonathan Demme, Silence of the Lambs,
+B D D Nancy Savoca, Dogfight,
+B D C 3 1971 Ruth Gordon
+-----------------------------
+Done.
+==25684== 
+==25684== HEAP SUMMARY:
+==25684==     in use at exit: 0 bytes in 0 blocks
+==25684==   total heap usage: 2,081 allocs, 2,081 frees, 169,539 bytes allocated
+==25684== 
+==25684== All heap blocks were freed -- no leaks are possible
+==25684== 
+==25684== For counts of detected and suppressed errors, rerun with: -v
+==25684== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+*** cleaning up, deleting myprogram
+Tue Mar 10 23:16:16 PDT 2020
+]0;srikardu@csslab7:~/CSS 343/uwb2020wi343b-movies-srikarduggempudi[srikardu@csslab7 uwb2020wi343b-movies-srikarduggempudi]$ exit
+
+Script done on Tue 10 Mar 2020 11:16:26 PM PDT
